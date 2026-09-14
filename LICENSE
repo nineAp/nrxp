@@ -1,0 +1,19 @@
+Copyright (c) 2026 Netrunner. All rights reserved.
+
+This LICENSE file covers the prose, diagrams, and tables in this repository's
+documentation files — README.md, README.ru.md, and NRXP_ARCHITECTURE.md. It does
+NOT cover the source code under engine/ and logger/, which is licensed separately
+under the GNU Affero General Public License v3.0 — see LICENSE-AGPL.
+
+The text and diagrams covered by this file may be quoted, with attribution, for the
+purpose of review, commentary, research, or reporting. They may not be republished
+in full without permission.
+
+The parts of the NRXP protocol not published as source in engine/ (the multiplexer,
+flow control, multipath failover, and the calibrated constants redacted from the
+published source — see ENGINE.md for the exact list) remain proprietary. Nothing in
+this repository grants any license, express or implied, to implement, reproduce,
+distribute, or create derivative works of those unpublished parts.
+
+No warranty of any kind is given. The documentation describes the protocol as
+deployed at the time of writing and may not reflect the current implementation.
